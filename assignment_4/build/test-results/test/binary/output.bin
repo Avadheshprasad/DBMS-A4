@@ -1,0 +1,218 @@
+9rel#8:LogicalProject.NONE(input=RelSubset#7,exprs=[$1])
+rel#7:RelSubset#1.NONE
+ rel#13:RelSubset#1.PConvention
+Test passed :)
+?rel#24:LogicalProject.NONE(input=RelSubset#23,exprs=[$1, $2])
+ rel#23:RelSubset#0.PConvention
+ rel#23:RelSubset#0.PConvention
+Adam Grant 
+Adam Hopper 
+Al Garland 
+Alan Dreyfuss 
+Albert Johansson 
+Albert Nolte 
+Alec Wayne 
+Angela Hudson 
+Angela Witherspoon 
+Angelina Astaire 
+Anne Cronyn 
+Audrey Bailey 
+Audrey Olivier 
+Bela Walken 
+Ben Harris 
+Ben Willis 
+Bette Nicholson 
+Bob Fawcett 
+Burt Dukakis 
+Burt Posey 
+Burt Temple 
+Cameron Streep 
+Cameron Wray 
+Cameron Zellweger 
+Carmen Hunt 
+Cary Mcconaughey 
+Cate Harris 
+Cate Mcqueen 
+Charlize Dench 
+Chris Bridges 
+Chris Depp 
+Christian Akroyd 
+Christian Gable 
+Christian Neeson 
+Christopher Berry 
+Christopher West 
+Cuba Allen 
+Cuba Birch 
+Cuba Olivier 
+Dan Harris 
+Dan Streep 
+Dan Torn 
+Daryl Crawford 
+Daryl Wahlberg 
+Debbie Akroyd 
+Dustin Tautou 
+Ed Chase 
+Ed Guiness 
+Ed Mansfield 
+Ellen Presley 
+Elvis Marx 
+Emily Dee 
+Ewan Gooding 
+Fay Kilmer 
+Fay Winslet 
+Fay Wood 
+Frances Day-Lewis 
+Frances Tomei 
+Fred Costner 
+Gary Penn 
+Gary Phoenix 
+Gene Hopkins 
+Gene Mckellen 
+Gene Willis 
+Geoffrey Heston 
+Gina Degeneres 
+Goldie Brody 
+Grace Mostel 
+Greg Chaplin 
+Gregory Gooding 
+Greta Keitel 
+Greta Malden 
+Groucho Dunst 
+Groucho Sinatra 
+Groucho Williams 
+Harrison Bale 
+Harvey Hope 
+Helen Voight 
+Henry Berry 
+Humphrey Garland 
+Humphrey Willis 
+Ian Tandy 
+Jada Ryder 
+James Pitt 
+Jane Jackman 
+Jayne Neeson 
+Jayne Nolte 
+Jayne Silverstone 
+Jeff Silverstone 
+Jennifer Davis 
+Jessica Bailey 
+Jim Mostel 
+Jodie Degeneres 
+Joe Swank 
+John Suvari 
+Johnny Cage 
+Johnny Lollobrigida 
+Jon Chase 
+Jude Cruise 
+Judy Dean 
+Julia Barrymore 
+Julia Fawcett 
+Julia Mcqueen 
+Julia Zellweger 
+Julianne Dench 
+Karl Berry 
+Kenneth Hoffman 
+Kenneth Paltrow 
+Kenneth Pesci 
+Kenneth Torn 
+Kevin Bloom 
+Kevin Garland 
+Kim Allen 
+Kirk Jovovich 
+Kirsten Akroyd 
+Kirsten Paltrow 
+Laura Brody 
+Laurence Bullock 
+Lisa Monroe 
+Liza Bergman 
+Lucille Dee 
+Lucille Tracy 
+Mae Hoffman 
+Mary Keitel 
+Mary Tandy 
+Matthew Carrey 
+Matthew Johansson 
+Matthew Leigh 
+Meg Hawke 
+Mena Hopper 
+Mena Temple 
+Meryl Allen 
+Meryl Gibson 
+Michael Bening 
+Michael Bolger 
+Michelle Mcconaughey 
+Milla Keitel 
+Milla Peck 
+Minnie Kilmer 
+Minnie Zellweger 
+Morgan Hopkins 
+Morgan Mcdormand 
+Morgan Williams 
+Natalie Hopkins 
+Nick Degeneres 
+Nick Stallone 
+Nick Wahlberg 
+Olympia Pfeiffer 
+Oprah Kilmer 
+Parker Goldberg 
+Penelope Cronyn 
+Penelope Guiness 
+Penelope Monroe 
+Penelope Pinkett 
+Ralph Cruz 
+Ray Johansson 
+Reese Kilmer 
+Reese West 
+Renee Ball 
+Renee Tracy 
+Richard Penn 
+Rip Crawford 
+Rip Winslet 
+Rita Reynolds 
+River Dean 
+Rock Dukakis 
+Russell Bacall 
+Russell Close 
+Russell Temple 
+Salma Nolte 
+Sandra Kilmer 
+Sandra Peck 
+Scarlett Bening 
+Scarlett Damon 
+Sean Guiness 
+Sean Williams 
+Sidney Crowe 
+Sissy Sobieski 
+Spencer Depp 
+Spencer Peck 
+Susan Davis 
+Susan Davis 
+Sylvester Dern 
+Thora Temple 
+Tim Hackman 
+Tom Mckellen 
+Tom Miranda 
+Uma Wood 
+Val Bolger 
+Vivien Basinger 
+Vivien Bergen 
+Walter Torn 
+Warren Jackman 
+Warren Nolte 
+Whoopi Hurt 
+Will Wilson 
+William Hackman 
+Woody Hoffman 
+Woody Jolie 
+Zero Cage 
+Test passed :)
+?rel#49:LogicalProject.NONE(input=RelSubset#48,exprs=[$1, $7])
+rel#48:RelSubset#1.NONE
+ rel#60:RelSubset#1.PConvention
+9rel#53:LogicalProject.NONE(input=RelSubset#52,inputs=0)
+rel#52:RelSubset#3.NONE
+ rel#64:RelSubset#3.PConvention
+Test passed :)
+;rel#89:LogicalProject.NONE(input=RelSubset#88,exprs=[$8])
+rel#88:RelSubset#2.NONE
+ rel#98:RelSubset#2.PConvention
